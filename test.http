@@ -1,0 +1,10 @@
+###request1
+GET http://localhost:1000
+###request2
+POST  http://localhost:1000
+header name: header value
+body
+
+content
+
+
